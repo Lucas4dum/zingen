@@ -7,7 +7,7 @@ section {
   & header {
     & strong {
       display: block;
-      font: var(--fw-md) var(--fs-sm)/100% var(--ff-sans);
+      font: var(--fw-md) var(--fs-sm) / 100% var(--ff-sans);
       letter-spacing: 0.08em;
       text-transform: uppercase;
 
@@ -19,7 +19,7 @@ section {
   }
   & p {
     margin-top: 0.5rem;
-    color: var(--text-color-secondary):
+    color: var(--text-color-secondary);
   }
 }
 
